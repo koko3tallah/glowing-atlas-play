@@ -1,2 +1,1 @@
-# glowing-atlas-play
-Glowing Atlas public web game
+Glowing Atlas, built files only. Source is private.
